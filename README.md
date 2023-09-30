@@ -1,5 +1,6 @@
 # RMC-VideoSync
 This tool streamlines the process of analyzing and simulating real world PLC motion profiles for complex manufacturing systems. Entitled VideoSync, it is the result of an iterative design process that utilized Python, OpenCV, QT, Figma and the Adobe Creative Suite to display video footage alongside gorgeous UI, animations and interactive plot viewers.
+
 ![Desktop_Mockup](https://github.com/Matthew-Skovorodin/RMC-VideoSync/assets/146593166/1bff4e9b-e1ed-42e0-9493-7726073cfb90)
 
 ## Resources
